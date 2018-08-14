@@ -1,4 +1,4 @@
-
+//COMMENT1
 public class Point {
 		
 	private double x, y;
